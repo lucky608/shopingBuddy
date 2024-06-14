@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9c3422f0-3696-42b6-a160-bc066ef7d367/resourceGroups/KisaanCafeWebRG/providers/Microsoft.Web/sites/kissanCafeFront",
+    "appService.deploySubpath": "."
+}
